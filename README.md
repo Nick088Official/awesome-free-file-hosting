@@ -12,6 +12,7 @@ Awesome list of free file hosting sites, by features.
 | [Wormhole](https://wormhole.app)  | Unlimited               | 5 GB                 | 24 hours               | No                 | All file types                                 |
 | [Hidan.co](https://hidan.co) & [Hidan.sh](https://hidan.co) | Unlimited            | Unlimited               | 10 days, expanded for 30 mins at each download till a max of 30 days, after you finish your 10gb of free permanent storage logging               | No                 | All file types                                 |
 | [Buzzheavier](https://buzzheavier.com/), [Flashbang](https://flashbang.sh) & [Trashbytes](https://trashbytes.net) | Unlimited            | Unlimited               | 30 days (inactive links)               | No                 | All file types                                 |
+| [Fileditch](https://fileditch.com/) | Unlimited            | 5gb               | 30 days (inactive links)               | No                 | All file types                                 |
 
 ## Features Definitions
 - **Bandwidth**: The amount of data that can be downloaded.
