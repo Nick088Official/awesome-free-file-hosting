@@ -23,7 +23,7 @@ Awesome list of free file hosting sites, organized by features.
 
 
 ## Definitions
-- **Bandwidth**: The amount of data that can be downloaded before b.
+- **Bandwidth**: The amount of data that can be downloaded before the speed is reduced.
 - **Max Upload Size**: The largest file size allowed per upload.
 - **File Expiry**: How long files are stored before being deleted, for example 'inactive links' mean that your links aren't regularly viewed/downloaded your links.
 - **Login Info**: If you need to create an account to upload/download files + How the login is done (Id, only username with password, etc).
