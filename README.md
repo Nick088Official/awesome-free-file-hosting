@@ -2,18 +2,19 @@
 
 Awesome list of free file hosting sites, by features.
 
-| **Site**                | **Bandwidth**           | **Max Upload Size**  | **File Expiry**                        | **Login Info**                               | **Allowed File Types**                                     |
-|-------------------------|-------------------------|----------------------|----------------------------------------|----------------------------------------------|------------------------------------------------------------|
-| [Catbox](https://catbox.moe) | Unlimited          | 200 MB               | Permanent                              | Not required, via username, email & password | Most types, except `.exe`, `.scr`, `.cpl`, `.doc*`, `.jar` |
-| [Litterbox](https://catbox.moe) | Unlimited       | 1 GB                 | Choose 1h, 12h, 1d or 3d               | Can't login                                  | Most types, except `.exe`, `.scr`, `.cpl`, `.doc*`, `.jar` |
-| [Gofile](https://gofile.io)     | Unlimited       | Unlimited            | 10 days (inactive links)               | Not required, via email                      | All file types                                             |
-| [Pixeldrain](https://pixeldrain.com) | 5 GB/day   | Unlimited            | 30 days (inactive links)               | Not required, via username & password        | Images, videos, audio, PDFs, text                          |
-| [1fichier](https://1fichier.com)  | Unlimited     | 300 GB               | 15 days (guests), 30 days (registered) | Not required, via email & password           | All file types                                             |
-| [Wormhole](https://wormhole.app)  | Unlimited     | 5 GB                 | 24 hours                               | Can't login                                  | All file types                                             |
+| **Site**                | **Bandwidth**           | **Max Upload Size**  | **File Expiry**                        | **Login Info**                                         | **Allowed File Types**                                     |
+|-------------------------|-------------------------|----------------------|----------------------------------------|--------------------------------------------------------|------------------------------------------------------------|
+| [Catbox](https://catbox.moe) | Unlimited          | 200 MB per file      | Permanent                              | Not required (Keep IP), via username, email & password | Most types, except `.exe`, `.scr`, `.cpl`, `.doc*`, `.jar` |
+| [Litterbox](https://catbox.moe) | Unlimited       | 1 GB                 | Choose 1h, 12h, 1d or 3d               | Can't login                                            | Most types, except `.exe`, `.scr`, `.cpl`, `.doc*`, `.jar` |
+| [Gofile](https://gofile.io)     | Unlimited       | Unlimited            | 10 days (inactive links)               | Not required, via email                                | All file types                                             |
+| [Pixeldrain](https://pixeldrain.com) | 5 GB/day   | 20gb per file        | 120 days (inactive links)              | Rrequired (Upload), via username, email & password     | Images, videos, audio, PDFs, text                          |
+| [1fichier](https://1fichier.com)  | Unlimited     | 300 GB               | 15 days (guests), 30 days (registered) | Not required, via email & password                     | All file types                                             |
+| [Wormhole](https://wormhole.app)  | Unlimited     | 10 GB                | 24 hours                               | Can't login                                            | All file types                                             |
 | [Hidan.co](https://hidan.co) & [Hidan.sh](https://hidan.co) | Unlimited  | Unlimited                | 10 days, expanded for 30 mins at each download till a max of 30 days, after you finish your 10gb of free permanent storage logging               | Not required, via Id                 | All file types                                 |
 | [Buzzheavier](https://buzzheavier.com/), [Flashbang](https://flashbang.sh) & [Trashbytes](https://trashbytes.net) | Unlimited            | Unlimited               | 30 days (inactive links)               | Not required, via Id                 | All file types                                 |
-| [Fileditch](https://fileditch.com/) | Unlimited   | 5gb                  | 30 days (inactive links) | Can't login                 | All file types                                 |
-
+| [Fileditch](https://fileditch.com/) | Unlimited   | 5 GB                 | 30 days (inactive links) | Can't login                 | All file types                                 |
+| [DataNodes](https://datanodes.to)  | Unlimited    | Unlimited            | Permanent                              | Required for upload & be a site owner ticket discord   | All file types                                             |
+| [Linx Server](https://drop.xtrafrancyz.net/) | Unlimited  | 256 MB       | Choose 1m, 5m, 1h, 1d, 1w, 2w          | Can't login                                            | All file types, except `.exe`                              |
 
 
 ## Features Definitions
