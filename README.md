@@ -19,6 +19,7 @@ Awesome list of free file hosting sites, organized by features.
 | [Gofile](https://gofile.to) | Unlimited           | 5 GB                 | Choose 1d, 7d, 31d, never(14d inactive)| Can't login                                            | All file types                                                                |
 | [ShareFile](https://sharefile.co) | Unlimited     | 5 GB                 | Choose 1d, 7d, 31d, never(7d inactive) | Can't login                                            | All file types                                                                |
 | [Filebin](https://filebin.net) | Unlimited        | Unlimited            | 1 week                                 | Can't login                                            | All file types                                                                |
+| [Filespayout](https://filespayout) | Unlimited        | 10 GB, unlimited per file            | Permanent          | Rrequired (Upload), via username, email & password | Most types, except `.png`, `.webp`, `.wav`.  |
 | [Uguu](https://uguu.se) | Unlimited        | 64 MB            | 3 hours                                           | Can't login                                            | All file types                                                                |
 | [Linx Server](https://drop.xtrafrancyz.net/) | Unlimited  | 256 MB       | Choose 1m, 5m, 1h, 1d, 1w, 2w          | Can't login                                            | All file types, except `.exe`                                                 |
 
