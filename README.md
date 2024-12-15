@@ -1,3 +1,5 @@
+![Awesome Free File Hosting Square](assets/images/awesome_list_free_file_hosting_square.jpg)
+
 # Awesome Free File Hosting
 
 Awesome list of free file hosting sites, organized by features.
