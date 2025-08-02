@@ -27,7 +27,8 @@ Awesome list of free file hosting sites, organized by features.
 | [File.io](https://file.io) | Unlimited     | 2 GB, hourly upload limit of 4GB | 14 days & Auto-delete after 1 download | Required (Upload), via email & password | All file types                                                                |
 | [Easyupload.io](https://easyupload.io/) | Unlimited     | 10 GB, max 50 files per upload | Choose 1d, 7d, 30d & (Optional) Auto-delete after 1 download | Not required, via email     | All file types                                                                |
 | [Filespayout](https://filespayout.com) | Unlimited        | 10 GB, unlimited per file            | Permanent          | Required (Upload), via username, email & password | Most types, except `.png`, `.webp`, `.wav`.  |
-| [FileCat](https://filecat.net/) | Unlimited | 2 GB per file | Deletes files after contract term expires | Required (Upload), via username, email & password | All file types |
+| [pCloud](https://www.pcloud.com) | 50 GB/month | 2 GB | 12 months (inactive free account) | Required, via email & password | All file types |
+| [FileCat](https://filecat.net/) | 50 kb/sec, 1 File per hoour, 2 files per day | 2 GB per file | Deletes files after contract term expires | Required (Upload), via username, email & password | All file types |
 | [Uguu](https://uguu.se) | Unlimited        | 128 MB            | 3 hours                                           | Can't login                                            | All file types                                                                |
 | [Linx Server](https://drop.xtrafrancyz.net/) | Unlimited  | 256 MB       | Choose 1m, 5m, 1h, 1d, 1w, 2w          | Can't login                                            | All file types, except `.exe`                                                 |
 
