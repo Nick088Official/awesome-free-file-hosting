@@ -32,6 +32,8 @@ Awesome list of free file hosting sites, organized by features.
 | [FileCat](https://filecat.net/) | 50 kb/sec, 1 File per hoour, 2 files per day | 2 GB per file | Deletes files after contract term expires | Required (Upload), via username, email & password | All file types |
 | [Uguu](https://uguu.se) | Unlimited        | 128 MB            | 3 hours                                           | Can't login                                            | All file types                                                                |
 | [Linx Server](https://drop.xtrafrancyz.net/) | Unlimited  | 256 MB       | Choose 1m, 5m, 1h, 1d, 1w, 2w          | Can't login                                            | All file types, except `.exe`                                                 |
+| [Ex Mozilla's Send Community Instances](https://github.com/timvisee/send-instances/) | Varies  | Varies       | Varies          | Can't login                                            | All file types                                                 |
+
 
 
 ## Definitions
