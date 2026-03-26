@@ -49,3 +49,10 @@ Awesome list of free file hosting sites, organized by features.
 - **File Expiry**: How long files are stored before being deleted, for example 'inactive links' mean that your links aren't regularly viewed/downloaded your links.
 - **Login Info**: If you need to create an account to upload/download files + How the login is done (Id, only username with password, etc).
 - **Allowed File Types**: The kinds of files supported by the hosting service.
+
+
+# Versioned / Persistent File Sharing Platforms
+
+| **Service** | **Link Type** | **Versioning** | **Expiry** | **Access / Login** | **File Support** |
+|-------------------------|-------------------------|----------------------|----------------------------------------|--------------------------------------------------------|-------------------------------------------------------------------------------|
+| [Clowd](https://clowd.store) | Persistent links | Version history | No expiry | Optional login | All file types |
